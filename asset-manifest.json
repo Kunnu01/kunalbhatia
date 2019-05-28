@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kunalbhatia/static/css/main.e8c8ebab.chunk.css",
+    "main.js": "/kunalbhatia/static/js/main.d305ac1e.chunk.js",
+    "main.js.map": "/kunalbhatia/static/js/main.d305ac1e.chunk.js.map",
+    "runtime~main.js": "/kunalbhatia/static/js/runtime~main.21cb97c7.js",
+    "runtime~main.js.map": "/kunalbhatia/static/js/runtime~main.21cb97c7.js.map",
+    "static/js/2.660c0ae0.chunk.js": "/kunalbhatia/static/js/2.660c0ae0.chunk.js",
+    "static/js/2.660c0ae0.chunk.js.map": "/kunalbhatia/static/js/2.660c0ae0.chunk.js.map",
+    "index.html": "/kunalbhatia/index.html",
+    "precache-manifest.575e05948efed37ec8ccfb2bda0cd8ed.js": "/kunalbhatia/precache-manifest.575e05948efed37ec8ccfb2bda0cd8ed.js",
+    "service-worker.js": "/kunalbhatia/service-worker.js",
+    "static/css/main.e8c8ebab.chunk.css.map": "/kunalbhatia/static/css/main.e8c8ebab.chunk.css.map"
+  }
+}
