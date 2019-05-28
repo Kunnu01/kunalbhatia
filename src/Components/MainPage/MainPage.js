@@ -1,6 +1,5 @@
 import React from 'react'
 import { Typography } from '@material-ui/core';
-import Tilt from 'react-tilt';
 import { withStyles } from '@material-ui/core/styles';
 
 const styles = theme => ({
@@ -20,7 +19,7 @@ const styles = theme => ({
         paddingRight: '15px',
         paddingTop: '4%',
         padding: '5px',
-        fontSize: '5rem',
+        fontSize: '4.2rem',
         [theme.breakpoints.down('sm')]: {
             fontSize: '3.5rem',
         },
@@ -107,9 +106,9 @@ const MainPage = (props) => {
                 </div>
             </div>
             <div className={classes.imageSection}>
-                <Tilt className="Tilt" options={{ max : 5 }}>
-                    <img className={classes.image} src="./images/me.jpe" alt="myphoto"/>
-                </Tilt>
+                {/* <Tilt className="Tilt" options={{ max : 5 }}> */}
+                    <img className={classes.image} src="./Images/me.jpe" alt="myphoto"/>
+                {/* </Tilt> */}
             </div>
         </section>
     )

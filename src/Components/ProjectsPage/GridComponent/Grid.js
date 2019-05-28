@@ -24,8 +24,8 @@ const styles = theme => ({
     },
     titleBar: {
         background:
-        'linear-gradient(to bottom, rgba(0,0,0,0.7) 0%, ' +
-        'rgba(0,0,0,0.3) 70%, rgba(0,0,0,0) 100%)',
+        'linear-gradient(to bottom, rgba(0,0,0,0.5) 0%, ' +
+        'rgba(0,0,0,0.3) 70%, rgba(0,0,0,0.3) 100%)',
     },
     icon: {
         color: 'white',

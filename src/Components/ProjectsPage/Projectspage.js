@@ -67,35 +67,8 @@ const ProjectsPage = (props) => {
                 </Typography>
             </header>
                 <AdvancedGridList />
-            <section className={classes.root}>
-                <div className={classes.intro}>
-                    <Typography align="left" className={classes.intro} variant="h1" color="textPrimary">
-                        Hello, <span style={{color: '#53f6c7'}}>I'm Kunal,</span> full-stack developer
-                    </Typography>
-                    <Typography align="left" className={classes.para} variant="p" color="textPrimary">
-                        A WordPress website about Hypergiant company which creates hyper-efficient and scalable. The careful have the as a spirits and client ihave by assistant have took initial sentences omens.
-                    </Typography>
-                </div>
-                <div className={classes.imageSection}>
-                    <img className={classes.image} src="https://bridge236.qodeinteractive.com/wp-content/uploads/2018/05/h1-img-2.jpg" alt="myphoto"/>
-                </div>
-            </section>
         </>
     )
 }
 
 export default withStyles(styles)(ProjectsPage);
-
-
-{/* <GridListTile key={tile.img} className={classes.gridList}>
-                <img src={tile.img} alt={tile.title} />
-                <GridListTileBar
-                title={tile.title}
-                subtitle={<span>by: {tile.author}</span>}
-                actionIcon={
-                    <IconButton className={classes.icon}>
-                    <InfoIcon />
-                    </IconButton>
-                }
-                />
-            </GridListTile> */}
